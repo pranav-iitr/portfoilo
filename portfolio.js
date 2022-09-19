@@ -161,8 +161,8 @@ export const experience = [
 
 	{
 		role: "Frontend Engineer Intern",
-		company: "Mentorplus Software",
-		companylogo: "/img/icons/common/dusecaSoftware.jpg",
+		company: "Mentor Plus ",
+		companylogo: "/img/icons/common/mentor.jpg",
 		date: "Feb 2022 – Apr 2022",
 		desc: "",
 		descBullets: [
