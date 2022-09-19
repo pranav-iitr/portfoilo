@@ -21,7 +21,7 @@ export default function Home({ githubProfileData }) {
 			<Navigation />
 			<Greetings />
 			<Skills />
-			<Proficiency />
+			{/* <Proficiency /> */}
 			<Education />
 			<Experience />
 			{/* <Feedbacks /> */}

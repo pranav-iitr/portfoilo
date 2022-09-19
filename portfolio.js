@@ -6,7 +6,7 @@ export const greetings = {
 	description:
 		"I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js  and some other cool libraries and frameworks. I also work on Machine Learning and Deep Learning",
 	resumeLink:
-		"https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing",
+		"/resume/Pranav.pdf",
 };
 
 export const openSource = {
@@ -25,7 +25,7 @@ export const socialLinks = {
 export const skillsSection = {
 	title: "What I do",
 	subTitle:
-		"CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+		"A SOFTWARE DEVELOPER WHO WANTS TO EXPLORE EVERY TECH THAT EXISTS",
 	data: [
 		{
 			title: "Full Stack Development",
@@ -128,18 +128,18 @@ export const skillsSection = {
 };
 
 export const SkillBars = [
-	{
-		Stack: "Frontend/Design", //Insert stack or technology you have experience in
-		progressPercentage: "90", //Insert relative proficiency in percentage
-	},
-	{
-		Stack: "Backend",
-		progressPercentage: "70",
-	},
-	{
-		Stack: "Programming",
-		progressPercentage: "60",
-	},
+	// {
+	// 	Stack: "Frontend/Design", //Insert stack or technology you have experience in
+	// 	progressPercentage: "90", //Insert relative proficiency in percentage
+	// },
+	// {
+	// 	Stack: "Backend",
+	// 	progressPercentage: "70",
+	// },
+	// {
+	// 	Stack: "Programming",
+	// 	progressPercentage: "60",
+	// },
 ];
 
 export const educationInfo = [
@@ -184,25 +184,15 @@ export const experience = [
 
 export const projects = [
 	{
-		name: "developer-portfolio",
-		desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
-		github: "https://github.com/1hanzla100/developer-portfolio",
-		link: "https://developer-portfolio-1hanzla100.vercel.app/",
+		name: "Traffic violation detection system",
+		desc: " Developed a Deep Learning model based on the Yolo algorithm to detect traffic offenders, further we used OpenCV for image processing and data expansion hosted on djnago.",
+		github: "https://github.com/pranav-iitr/traffic",
+
 	},
 	{
-		name: "AtlasMart",
-		desc: "With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.",
-		github: "https://github.com/1hanzla100/Django-React-Marketplace",
-	},
-	{
-		name: "Technota (Forum)",
-		desc: "Get hands-on experience in technical skills with Technota",
-		github: "https://github.com/1hanzla100/django-react-forum",
-	},
-	{
-		name: "Shopaza (Ecommerce)",
-		desc: "Now your reach to all your favorite entertainment and luxury items is just one touch apart",
-		github: "https://github.com/1hanzla100/Django-ecommerce",
+		name: "Essumit Portal",
+		desc: "Official website of Essumit IIT Roorkee catring 2000+ delegates and 1500+ Campus Ambassadors  using Django and Django Rest aslo Made website SEO using NEXT SEO and insights from Google analytics, brought it to the top search result",
+		link: "https://www.esummit.in/",
 	},
 ];
 
