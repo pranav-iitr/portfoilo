@@ -111,16 +111,16 @@ export const skillsSection = {
 					fontAwesomeClassname: "logos:jupyter",
 				},
 				{
-					skillName: "Web3js",
-					fontAwesomeClassname: "logos:web3js",
+					skillName: "openCv",
+					fontAwesomeClassname: "logos:opencv",
 				},
 				{
-					skillName: "Metamask",
-					fontAwesomeClassname: "logos:metamask-icon",
+					skillName: "YOLO",
+					fontAwesomeClassname: "simple-icons:yolo",
 				},
 				{
-					skillName: "Ganache",
-					fontAwesomeClassname: "logos:ganache-icon",
+					skillName: "Numpy",
+					fontAwesomeClassname: "logos:numpy",
 				},
 			],
 		},
@@ -144,51 +144,42 @@ export const SkillBars = [
 
 export const educationInfo = [
 	{
-		schoolName: "Harvard University",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
-		grade: "Grade A",
+		schoolName: "IIT Roorkee",
+		subHeader: "B.Tech ECE",
+		duration: "Nov 2020 - May 2024",
+		desc: "Undergraduate in Electronics and Communication Engineering with depp intrest in Machine Learning and AI",
+		
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"Tech Head E-cell and Essumit IIT Roorkee",
+			"Dev Head institute sports council IIT Roorkee",
+			"Core TeamMember of ARIES IIT Roorkee",
 		],
 	},
 ];
 
 export const experience = [
+
 	{
-		role: "Frontend Developer",
-		company: "Duseca Software",
+		role: "Frontend Engineer Intern",
+		company: "Mentorplus Software",
 		companylogo: "/img/icons/common/dusecaSoftware.jpg",
-		date: "Apr 2022 – Jun 2022",
-		desc: "I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.",
+		date: "Feb 2022 – Apr 2022",
+		desc: "",
+		descBullets: [
+			" Integrated multiple SDKs such as  Calendly, Razorpay and Google Auth, which helped acquire new users for the platform",
+			" Developed dashboard, login, and demo workflow using NEXT.Js enhancing the user experience",
+			" Upgraded UI and integrated cookies, which increased the sales conversion rate",
+		],
 	},
 	{
-		role: "API Engineer",
-		company: "Duseca Software",
-		companylogo: "/img/icons/common/dusecaSoftware.jpg",
-		date: "Jan 2022 – Mar 2022",
-		desc: "I worked as API Engineer on a Kale App. Kale is a community platform for the creation of social reviews based on verified transactions. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.",
-		// descBullets: [
-		// 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-		// 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-		// ],
+		role: "Web Developer Intern",
+		company: "Instaminutes",
+		companylogo: "/img/icons/common/instaminutes.jpg",
+		date: "Sept 2021 - Jan 2022",
+		desc:" Worked in the integration of numerous APIs and libraries for Audio processing and its transmission to the backend, also made responsive UI using NEXT JS and SCSS, strengthening people's experience on the platform,also Integrated Google calendar to automatically  store meeting notes for online meetings reducing time to search for notes.",
+		
 	},
-	{
-		role: "Full Stack Developer",
-		company: "Bleed-AI",
-		companylogo: "/img/icons/common/bleedAI.jpg",
-		date: "Sept 2021 - Oct 2021",
-		desc: "Worked as django web developer to create a website in which I integrated computer vision AI model (built by the team of BleedAI) to process YouTube URLs and show Real Time processing on Website using Django Channels WebSockets , threading for running multiple instances of AI Model, jQuery for UI rendering and deployed it on Heroku server.",
-	},
-	{
-		role: "Backend Developer",
-		company: "Wapidu",
-		companylogo: "/img/icons/common/wapidu.jpg",
-		date: "Sept 2021",
-		desc: "Worked as a Django Developer to integrate Stripe payment gateway in wapidu.com and Created REST APIs using Django REST Framework to integrate Django Stripe backend to Vue.js Frontend and Deployed it on Azure based Docker container registry.",
-	},
+	
 ];
 
 export const projects = [
@@ -216,16 +207,16 @@ export const projects = [
 ];
 
 export const feedbacks = [
-	{
-		name: "John Smith",
-		feedback:
-			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
-	},
-	{
-		name: "John Smith",
-		feedback:
-			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
-	},
+	// {
+	// 	name: "John Smith",
+	// 	feedback:
+	// 		"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+	// },
+	// {
+	// 	name: "John Smith",
+	// 	feedback:
+	// 		"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+	// },
 ];
 
 // See object prototype on SEO.jsx page

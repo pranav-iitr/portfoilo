@@ -31,6 +31,7 @@ const ExperienceCard = ({ data }) => {
 								marginRight: "auto",
 								width: "8rem",
 								height: "8rem",
+								
 								borderRadius: "50%",
 							}}
 							className="shadow mb-3"
