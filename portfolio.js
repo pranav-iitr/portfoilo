@@ -16,8 +16,8 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-	url: "https://google.com",
-	linkedin: "https://www.linkedin.com/in/pranav-arya-2673421b8/",
+	url: "https://portfoilo-weld.vercel.app/",
+	linkedin: "https://www.linkedin.com/in/pranav-arya-tech/",
 	github: "https://github.com/pranav-iitr",
 	
 };
