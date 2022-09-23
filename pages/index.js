@@ -16,6 +16,7 @@ import SEO from "../components/SEO";
 
 export default function Home({ githubProfileData }) {
 	return (
+	
 		<div>
 			<SEO />
 			<Navigation />
@@ -39,7 +40,7 @@ export async function getStaticProps(_) {
 	const githubProfileData = await fetch(
 		`https://api.github.com/users/${openSource.githubUserName}`
 	).then((res) => res.json());
-
+    
 	return {
 		props: { githubProfileData },
 	};
