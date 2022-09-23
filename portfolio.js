@@ -2,7 +2,7 @@ import emoji from "react-easy-emoji";
 
 export const greetings = {
 	name: "Pranav Arya",
-	title: "Hi all, I'm Pranav",
+	title: "Hi all, I'm Pranav Arya",
 	description:
 		"I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js  and some other cool libraries and frameworks. I also work on Machine Learning and Deep Learning",
 	resumeLink:
@@ -32,9 +32,9 @@ export const skillsSection = {
 			lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js"
+					"⚡ Building responsive PWA in React.js and next.js"
 				),
-				emoji("⚡ Building responsive static websites using Next.js"),
+				emoji("⚡ Building responsive websites using Next.js"),
 				emoji(
 					"⚡ Building RESTful APIs in Django & Django REST Framework"
 				),
@@ -68,11 +68,6 @@ export const skillsSection = {
 					skillName: "Django",
 					fontAwesomeClassname: "vscode-icons:file-type-django",
 				},
-
-				{
-					skillName: "Redux",
-					fontAwesomeClassname: "logos:redux",
-				},
 				{
 					skillName: "NPM",
 					fontAwesomeClassname: "logos:npm-icon",
@@ -85,7 +80,7 @@ export const skillsSection = {
 		},
 		
 		{
-			title: "ML",
+			title: "Machine Learing and Deep Learning",
 			lottieAnimationFile: "/lottie/skills/ai.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
@@ -147,7 +142,7 @@ export const educationInfo = [
 		schoolName: "IIT Roorkee",
 		subHeader: "B.Tech ECE",
 		duration: "Nov 2020 - May 2024",
-		desc: "Undergraduate in Electronics and Communication Engineering with depp intrest in Machine Learning and AI",
+		desc: "Undergraduate in Electronics and Communication Engineering with deep intrest in Machine Learning and AI",
 		
 		descBullets: [
 			"Tech Head E-cell and Essumit IIT Roorkee",
