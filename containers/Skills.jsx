@@ -4,7 +4,7 @@ import { Fade } from "react-reveal";
 import { Col, Container, Row, UncontrolledTooltip } from "reactstrap";
 import DisplayLottie from "../components/DisplayLottie";
 import { skillsSection } from "../portfolio";
-
+import Aos from "aos";
 const Skills = () => {
 	return skillsSection && (
 		<Container className="text-center my-5 section section-lg">
