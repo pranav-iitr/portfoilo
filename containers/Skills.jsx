@@ -1,6 +1,6 @@
 import { Icon } from "@iconify/react";
 import React, { Fragment } from "react";
-import { Fade } from "react-reveal";
+
 import { Col, Container, Row, UncontrolledTooltip } from "reactstrap";
 import DisplayLottie from "../components/DisplayLottie";
 import { skillsSection } from "../portfolio";
@@ -36,7 +36,7 @@ const Skills = () => {
               <Col
                 data-aos={"animationLeft"}
                 data-aos-easing="linear"
-                data-aos-duration="1500"
+                data-aos-duration="1100"
                 lg="6"
                 className="order-2 order-lg-1"
               >
@@ -47,7 +47,7 @@ const Skills = () => {
               <Col
                 data-aos={"animationRight"}
                 data-aos-easing="linear"
-                data-aos-duration="1500"
+                data-aos-duration="1100"
                 lg="6"
                 className="order-1 order-lg-2"
               >

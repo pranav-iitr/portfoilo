@@ -12,7 +12,7 @@ const ProjectsCard = ({ data }) => {
 		  duration: 4000,
 		  offset: 70,
 		  mirror: true,
-		  anchorPlacement: "top-center",
+		  anchorPlacement: "center",
 		});
 		window.addEventListener(
 		  "touchmove",
