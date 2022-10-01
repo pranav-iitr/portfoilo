@@ -3,7 +3,6 @@ import { Card, CardBody, Badge } from "reactstrap";
 import 'aos';
 import { useEffect } from "react";
 import "aos/dist/aos.css";
-// import { Fade } from "react-reveal";
 import Aos from "aos";
 
 const EducationCard = ({ education }) => {
