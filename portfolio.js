@@ -210,7 +210,7 @@ export const seoData = {
 	description:
 		"A passionate Full Stack Web Developer and Machine Learning enginner.",
 	author: "Pranav Arya",
-	image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
+	image: "",
 	
 	keywords: [
 		"Pranav Arya",
