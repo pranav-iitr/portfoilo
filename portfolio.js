@@ -32,11 +32,11 @@ export const skillsSection = {
 			lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"⚡ Building responsive PWA in React.js and next.js"
+					"I build responsive PWA in React.js and next.js"
 				),
-				emoji("⚡ Building responsive websites using Next.js"),
+				emoji("I code responsive websites using Next.js"),
 				emoji(
-					"⚡ Building RESTful APIs in Django & Django REST Framework"
+					"Building RESTful APIs in Django & Django REST Framework"
 				),
 			],
 			softwareSkills: [
@@ -84,16 +84,16 @@ export const skillsSection = {
 			lottieAnimationFile: "/lottie/skills/ai.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"⚡ Learning New Machine Learning Algorithms"
+					"Learning New Machine Learning Algorithms"
 				),
 				emoji(
-					"⚡ Deploying Machine Learning Models to make world a better place"
+					"Deploying Machine Learning Models to make world a better place"
 				),
 				emoji(
-					"⚡ Won First Prize in Inter IIT Tech Meet 10 in ML"
+					"Won First Prize in Inter IIT Tech Meet 10 in ML"
 				),
 				emoji(
-					"⚡ Intragrating Machine Learning and Deep Learning Models with Web Applications"
+					"Intragrating Machine Learning and Deep Learning Models with Web Applications"
 				),
 			],
 			softwareSkills: [
@@ -185,8 +185,8 @@ export const projects = [
 
 	},
 	{
-		name: "Essumit Portal",
-		desc: "Official website of Essumit IIT Roorkee catring 2000+ delegates and 1500+ Campus Ambassadors  using Django and Django Rest aslo Made website SEO using NEXT SEO and insights from Google analytics, brought it to the top search result",
+		name: "E-summit Portal",
+		desc: "Official website of E-summit IIT Roorkee catring 2000+ delegates and 1500+ Campus Ambassadors  using Django and Django Rest aslo Made website SEO using NEXT SEO and insights from Google analytics, brought it to the top search result",
 		link: "https://www.esummit.in/",
 	},
 ];
